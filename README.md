@@ -1,4 +1,4 @@
-### Hi there humans, bots or extraterrestials, 👋
+### Hi there humans, bots and extraterrestials, 👋
 
 My name is Godwin Udofia and I am human. I make thing and I am currently learning [Elixir.](https://elixir-lang.org)
 
