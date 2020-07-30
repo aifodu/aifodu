@@ -1,6 +1,6 @@
 ### Hi there humans, bots or extraterrestials, 👋
 
-My name is Godwin Udofia and I am human. I make thing and I am currently learning [Elixir](https://elixir-lang.org)
+My name is Godwin Udofia and I am human. I make thing and I am currently learning [Elixir.](https://elixir-lang.org)
 
 
 📫 How to reach me: udofiawin@gmail.com
