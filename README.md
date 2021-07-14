@@ -1,4 +1,4 @@
-### Hi there humans, bots and extraterrestials! 👋
+### Hi there humans, bots, and extraterrestials! 👋
 
 My name is Udofia, I am human and I make software. Or do I?
 
