@@ -1,9 +1,6 @@
 ### Hi there humans, bots and extraterrestials! 👋
 
-My name is Udofia, I am human and I make software. Or do I?
-
-<!-- [Elixir.](https://elixir-lang.org) -->
-
+My name is Udofia, I am human and I make software.
 
 📫 How to reach me: udofiawin@gmail.com
 
