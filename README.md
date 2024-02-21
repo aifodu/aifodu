@@ -2,7 +2,9 @@
 
 My name is Udofia, I am human and I make software.
 
+<!--
 📫 How to reach me: udofiawin@gmail.com
+-->
 
 <!--
 **aifodu/aifodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
